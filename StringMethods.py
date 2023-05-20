@@ -1,0 +1,10 @@
+course = 'Python for Beginners'
+print(len(course))
+print(course.lower())
+print(course.upper())
+print(course)
+print(course.find('o'))
+print(course.find('Z'))
+print(course.title())
+print(course.replace('Python' , 'Java'))
+print('Jamal' in course)
